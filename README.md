@@ -1,1 +1,1 @@
-# jan_github
+this is a project overview
